@@ -1,4 +1,4 @@
-[]友好支持中文
+[] 友好支持中文
 
 # React TinyMCE Input
 
