@@ -31,3 +31,5 @@ dist
 
 # IDE
 .idea
+
+yarn.lock

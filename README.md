@@ -1,4 +1,4 @@
-[] 友好支持中文
+forked from [!https://github.com/HurricaneJames/react-tinymce-input.git](https://github.com/HurricaneJames/react-tinymce-input.git)
 
 # React TinyMCE Input
 

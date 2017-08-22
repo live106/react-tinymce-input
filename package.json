@@ -1,5 +1,5 @@
 {
-  "name": "react-tinymce-input",
+  "name": "react-tinymce-input-yz",
   "version": "2.1.0",
   "description": "A React component to control TinyMCE.",
   "main": "dist/TinyMCEInput.js",
@@ -11,18 +11,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/HurricaneJames/react-tinymce-input.git"
+    "url": "https://github.com/live106/react-tinymce-input.git"
   },
   "keywords": [
     "react",
     "tinymce"
   ],
-  "author": "James Burnett <HurricaneJamesEsq@gmail.com> (https://github.com/HurricaneJames/react-tinymce-input)",
+  "author": "Wang Ya'nan <wangyn@metaship.cn> (https://github.com/live106/react-tinymce-input)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/HurricaneJames/react-tinymce-input/issues"
   },
-  "homepage": "https://github.com/HurricaneJames/react-tinymce-input",
+  "homepage": "https://github.com/live106/react-tinymce-input",
   "dependencies": {
     "uuid": "^2.0.1"
   },
