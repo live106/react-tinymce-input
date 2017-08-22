@@ -1,3 +1,5 @@
+[]友好支持中文
+
 # React TinyMCE Input
 
 [![npm package](https://img.shields.io/npm/v/react-tinymce-input.svg?style=flat)](https://www.npmjs.org/package/react-tinymce-input)
